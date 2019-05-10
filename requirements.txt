@@ -1,0 +1,5 @@
+numpy==1.15.4
+easygui==0.98.1
+requests==2.21.0
+nltk==3.4
+beautifulsoup4==4.7.1
